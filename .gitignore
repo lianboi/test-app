@@ -1,0 +1,6 @@
+.idea/
+client-1
+dist
+node_modules/
+npm-debug.log
+src
